@@ -1,0 +1,10 @@
+Steps to run ESP32:
+1-File
+2-Preferences
+3-Writing the website(https://raw.githubusercontent.com/espressif/arduino-esp32/gh-paqes/package_esp32_index.json)
+4-Ok
+5-Tools
+6-Bourd :"ESP32 dev module"
+7-Bourds manager
+8-Writing ESP32 in space
+9-Instal
